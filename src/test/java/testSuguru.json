@@ -1,0 +1,43 @@
+{
+    "length": 2,
+    "breadth": 3,
+    "squares" : [
+        {
+            "number": 2,
+            "xPos": 0,
+            "yPos": 0,
+            "boxNumber": 0
+        }, 
+        {
+            "number": 3,
+            "xPos": 1,
+            "yPos": 0,
+            "boxNumber": 1
+        }, 
+        {
+            "number": 1,
+            "xPos": 2,
+            "yPos": 0,
+            "boxNumber": 1
+        },
+        {
+            "number": 1,
+            "xPos": 0,
+            "yPos": 1,
+            "boxNumber": 0
+        }, 
+        {
+            "number": 4,
+            "xPos": 1,
+            "yPos": 1,
+            "boxNumber": 1
+        }, 
+        {
+            "number": 2,
+            "xPos": 2,
+            "yPos": 1,
+            "boxNumber": 1
+        }
+    ]
+} 
+    
