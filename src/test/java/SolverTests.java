@@ -6,11 +6,11 @@ import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import main.java.Position;
-import main.java.Square;
-import main.java.Suguru;
-import main.java.SuguruBuilder;
-import main.java.SuguruSolver;
+import main.java.back.Position;
+import main.java.back.Square;
+import main.java.back.Suguru;
+import main.java.back.SuguruBuilder;
+import main.java.back.SuguruSolver;
 
 public class SolverTests {
     private static SuguruBuilder unsolvedBuilder;

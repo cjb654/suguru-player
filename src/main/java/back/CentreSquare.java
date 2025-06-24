@@ -1,4 +1,4 @@
-package main.java;
+package main.java.back;
 
 public class CentreSquare extends Square{
     public CentreSquare(int boxNumber, Position position) {

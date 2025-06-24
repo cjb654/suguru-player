@@ -1,4 +1,4 @@
-package main.java;
+package main.java.back;
 
 public class App {
     public static void main(String[] args) {

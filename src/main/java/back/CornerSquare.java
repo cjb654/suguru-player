@@ -1,4 +1,4 @@
-package main.java;
+package main.java.back;
 
 public class CornerSquare extends Square{
     public CornerSquare(int boxNumber, Position position) {

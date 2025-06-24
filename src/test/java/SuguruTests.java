@@ -3,7 +3,10 @@ import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import main.java.*;
+import main.java.back.Box;
+import main.java.back.Position;
+import main.java.back.Square;
+import main.java.back.Suguru;
 
 public class SuguruTests {
     
